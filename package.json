@@ -1,0 +1,16 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "scripts": {
+    "test": "load demo.js",
+    "start": "load demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },  
+  "author": "",
+  "license": "ISC",
+  "description": "this runs online"
+}
